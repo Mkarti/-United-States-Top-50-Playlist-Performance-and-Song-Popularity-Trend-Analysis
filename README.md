@@ -1,0 +1,2 @@
+# -United-States-Top-50-Playlist-Performance-and-Song-Popularity-Trend-Analysis
+Analyzing 27K+ Spotify U.S. Top 50 playlist records to identify song popularity trends, artist dominance, and streaming performance patterns using Python and machine learning. Developing predictive models and interactive visualizations to generate data-driven insights for music industry decision-making and playlist optimization.
