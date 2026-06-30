@@ -31,14 +31,20 @@
 
 - Project Overview
 - Business Problem
-- Objectives
+- Project Objectives
+- Project Highlights
 - Dashboard Preview
-- Features
-- Architecture
+- Dashboard Features
+- Dashboard Architecture
+- Project Structure
+- Technology Stack & Tools
+- Dataset Information
+- Analytical Methodology
 - Installation
-- Technology Stack
-- Methodology
+- Dashboard Capabilities
+- Release Information
 - Future Enhancements
+- Learning Outcomes
 - Author
 
 # 📖 Project Overview
