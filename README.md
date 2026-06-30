@@ -9,6 +9,9 @@
 🎵 United States Top 50 Playlist Performance & Song Popularity Trend Analysis
 
 </h1>
+# 🚀 Live Dashboard
+
+[![Live Demo](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge&logo=streamlit)](https://us-top50-playlist-analytics.streamlit.app/)
 
 <p align="center">
 
