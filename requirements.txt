@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 streamlit
 pandas
 plotly
 numpy
 python-docx
+=======
+streamlit
+pandas
+plotly
+numpy
+python-docx
+>>>>>>> 2df2d44e8c3110a9938e5bdb252da229ecb449e0
 reportlab
