@@ -97,7 +97,7 @@ This project addresses that challenge by providing an executive-level analytics 
 
 | 🎤 Artist Analysis | 📝 Methodology |
 |-----------------|---------|
-| ![](assets/screenshots/artist.png) | ![](assets/screenshots/methodology.png) |
+| ![](assets/screenshots/artist_analysis.png) | ![](assets/screenshots/methodology.png) |
 
 | 📄 Reports Center | ℹ About |
 |-----------------|---------|
