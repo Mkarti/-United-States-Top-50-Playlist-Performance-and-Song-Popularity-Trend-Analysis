@@ -317,7 +317,7 @@ Executive Reporting
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/us-top50-playlist-analytics.git
+git clone https://github.com/Mkarti/-United-States-Top-50-Playlist-Performance-and-Song-Popularity-Trend-Analysis.git
 ```
 
 Navigate to the project
