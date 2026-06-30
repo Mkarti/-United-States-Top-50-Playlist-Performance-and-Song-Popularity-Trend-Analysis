@@ -1,4 +1,20 @@
-# 🎵 United States Top 50 Playlist Performance & Song Popularity Trend Analysis
+<p align="center">
+
+<img src="assets/banner.png" width="100%">
+
+</p>
+
+<h1 align="center">
+
+🎵 United States Top 50 Playlist Performance & Song Popularity Trend Analysis
+
+</h1>
+
+<p align="center">
+
+🎵 Song Analytics Dashboard
+
+</p>
 
 > **An interactive historical analytics dashboard built with Streamlit to explore playlist performance, artist representation, song popularity trends, and executive reporting.**
 
