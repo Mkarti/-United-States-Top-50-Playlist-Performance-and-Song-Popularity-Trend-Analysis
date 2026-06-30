@@ -8,6 +8,7 @@
         "officedocument",
         "openxmlformats",
         "streamlit",
+        "trendline",
         "whitesmoke",
         "yaxes"
     ]
